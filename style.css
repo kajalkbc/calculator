@@ -1,0 +1,28 @@
+.button{
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 55px;
+}
+
+.button:hover{
+    background-color: rgb(190, 190, 190);
+}
+
+.button:active{
+    background-color: gray;
+}
+
+.row{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.input{
+    margin:0 ;
+    padding :6px 28px;
+    border: 2px solid black;
+    width: 200px;
+}
