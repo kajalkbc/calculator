@@ -1,4 +1,8 @@
-
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 
 
 .button{
@@ -28,12 +32,18 @@
     margin:0 ;
     padding :6px 28px;
     border: 2px solid black;
-    width: 258px;
-    height: 30px;
+    width: 320px;
+    height: 35px;
     font-size: large;
 }
 
 .bg-color {
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,191,253,1) 50%, rgba(252,176,69,1) 100%);
+    /* background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,191,253,1) 50%, rgba(252,176,69,1) 100%); */
+    /* background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147)); */
+    /* background: #53a8b6; */
+    background: #05737a;
+
+
+
 }
+
